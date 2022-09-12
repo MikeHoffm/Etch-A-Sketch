@@ -1,4 +1,5 @@
 # Etch-A-Sketch
-- TOP Etch A Sketch Project -
-// Minimal HTML & Some CSS Styling.
-// JS focused project, used to practice DOM manipulation, eventListeners, etc.
+- TOP Etch A Sketch Project
+- Mainly JS focused to practice & familiarize self with DOM manipulation, eventListeners etc.
+- Minimal HTML & CSS Styling.
+- Live Link: https://mikehoffm.github.io/Etch-A-Sketch/
